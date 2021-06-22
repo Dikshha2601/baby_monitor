@@ -4,7 +4,6 @@ var alarm = null;
 
 function preload() {
   alarm = loadSound("alert.mp3");
-  img = loadImage("dog_cat.jpg");
 }
 
 function setup() {
